@@ -1,4 +1,4 @@
 # Minesweeper
 A Minesweeper game made in Dart/Flutter by me and is fully functional.
 <br>
-![Screenshot](https://github.com/DarkSaibot/Calculator/assets/86971123/823c72fa-64f0-4eaf-9cc1-eef5e4a2083f)
+![Screenshot_2](https://github.com/DarkSaibot/Minesweeper/assets/86971123/230641d0-0ec6-4aa8-b00f-ffa0a4bf6f81)
